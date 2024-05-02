@@ -9,7 +9,7 @@ Quite simple:
 
 ```go
 import (
-    humanid "go.42peaks.co/human-id"
+    "github.com/42peaks/humanid"
     "fmt"
 )
 

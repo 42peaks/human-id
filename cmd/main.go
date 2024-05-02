@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go.42peaks.co/human-id/internal"
+	"github.com/42peaks/humanid/internal"
 )
 
 func main() {

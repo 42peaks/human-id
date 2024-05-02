@@ -1,3 +1,3 @@
-module go.42peaks.co/human-id
+module github.com/42peaks/humanid
 
 go 1.22.2
